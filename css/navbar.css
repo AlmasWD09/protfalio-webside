@@ -1,0 +1,34 @@
+.navbar{
+    background-color: gray;
+}
+.navbar__box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.navbar__name{
+    font-size: var(--heading);
+    color: var(--defaultWhite);
+}
+.text__primary{
+    color: var(--primary);
+    font-weight: var(--extrabold);
+}
+.navbar__items{
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+    list-style: none;
+    color: var(--defaultWhite);
+}
+.navbar__items a{
+    text-decoration: none;
+    color: var(--defaultWhite);
+}
+.btn-primary{
+    background-color: var(--primary);
+    border: none;
+    border-radius: 5px;
+    padding:10px;
+}

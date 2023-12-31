@@ -1,0 +1,17 @@
+:root{
+    --primary:green;
+    --primaryLight:rgb(0, 23, 128);
+    --secondery:rgb(128, 0, 77);
+    --seconderyLight:rgb(115, 140, 115);
+    --defaultWhite:rgb(239, 229, 229);
+    --defaultBlack:rgb(18, 183, 12);
+    --sectionGap:20px;
+    --heading:32px;
+    --subheading:24px;
+    --parafont:20px;
+    --proppins:'opnes, seans';
+    --extrabold:800;
+    --bold:700;
+    --semibold:600;
+    --medium:400;
+}
